@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://dacalizaya.github.io/sitemap.xml
